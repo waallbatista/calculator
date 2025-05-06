@@ -5,7 +5,7 @@
 ### 📌 Descrição
  Projeto de uma calculadora web simples, desenvolvido para treinar lógica, eventos no DOM e design responsivo com tecnologias puras de Frontend.
  
- 🔗 [Clique aqui para acessar o projeto online](https://waallbatista.github.io/calculator/)
+ 🔗 [Clique aqui](https://waallbatista.github.io/calculator/) para acessar o projeto online.
 
 ### 🚀 Funcionalidades
  ✅ Realiza as 4 operações básicas: adição, subtração, multiplicação e divisão
