@@ -24,8 +24,8 @@ CSS3 – Estilização e responsividade
 JavaScript Puro – Manipulação do DOM e lógica de cálculos
 
 ## 📷 Preview
-Adicione aqui uma imagem (screenshot) ou um GIF demonstrando a calculadora funcionando
-Você pode usar assets/demo.gif e subir no seu repositório.
+
+https://github.com/waallbatista/calculator/blob/main/Captura%20de%20tela%202025-05-06%20170238.png
 
 ## 📂 Como Rodar Localmente
 bash
