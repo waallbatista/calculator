@@ -2,42 +2,41 @@
 
 
 
-
-
 ## 📌 Descrição
-Projeto de uma calculadora web simples, desenvolvido para treinar lógica, eventos no DOM e design responsivo com tecnologias puras de Frontend.
-
-🔗 Clique aqui para acessar o projeto online
+ Projeto de uma calculadora web simples, desenvolvido para treinar lógica, eventos no DOM e design responsivo com tecnologias puras de Frontend.
+ 
+ 🔗 Clique aqui para acessar o projeto online
 
 ## 🚀 Funcionalidades
-✅ Realiza as 4 operações básicas: adição, subtração, multiplicação e divisão
-
-✅ Interface moderna e responsiva
-
-✅ Tratamento de erros e entrada de dados
+ ✅ Realiza as 4 operações básicas: adição, subtração, multiplicação e divisão
+ 
+ ✅ Interface moderna e responsiva
+ 
+ ✅ Tratamento de erros e entrada de dados
 
 ## 🛠️ Tecnologias Utilizadas
-HTML5 – Estrutura da interface
 
-CSS3 – Estilização e responsividade
-
-JavaScript Puro – Manipulação do DOM e lógica de cálculos
+ HTML5 – Estrutura da interface
+ 
+ CSS3 – Estilização e responsividade
+ 
+ JavaScript Puro – Manipulação do DOM e lógica de cálculos
 
 ## 📷 Preview
 
  <https://github.com/waallbatista/calculator/blob/main/Captura%20de%20tela%202025-05-06%20170238.png>
 
-## 📂 Como Rodar Localmente
-bash
-Copiar
-Editar
-git clone https://github.com/waallbatista/calculator.git
-cd calculator
-Abra o arquivo index.html em seu navegador.
+## 📂 Como Executar o Projeto
+ 1.Clone o repositório:
+ 
+    git clone https://github.com/waallbatista/calculator.git
 
-## 📄 Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+ 2.Navegue até o diretório do projeto:
 
+    cd calculator
+
+ 3.Abra o arquivo index.html em seu navegador preferido.
+ 
 ## 🙋‍♂️ Autor
-Feito com dedicação por Wallace Batista
-[GitHub](https://github.com/waallbatista)
+ Feito com dedicação por Wallace Batista
+ [GitHub](https://github.com/waallbatista)
