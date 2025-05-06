@@ -24,7 +24,7 @@
 
 ### 📷 Preview
 
- <https://github.com/waallbatista/calculator/blob/main/Captura%20de%20tela%202025-05-06%20170238.png>
+![](https://github.com/waallbatista/calculator/blob/main/Captura%20de%20tela%202025-05-06%20170238.png)
 
 ### 📂 Como Executar o Projeto
  1.Clone o repositório:
