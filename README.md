@@ -38,5 +38,4 @@
  3.Abra o arquivo index.html em seu navegador preferido.
  
 ### 🙋‍♂️ Autor
- Feito com dedicação por Wallace Batista
- [GitHub](https://github.com/waallbatista)
+ Desenvolvido por [Wallace Batista.](https://github.com/waallbatista)
